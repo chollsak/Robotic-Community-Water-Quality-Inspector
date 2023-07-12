@@ -8,7 +8,7 @@ Here are the members of my awesome team:
 - ***<a href="https://github.com/gridsada14">Gridsada14</a> : Electrical (Battery, Electronic)***
 - ***<a href="https://github.com/chollsak">Choll Sak</a> : Developer (RFID, EEPROM)***
 
-*** Sensors ***
+***Sensors***
 - DO Sensor (Dissolved Oxygen)
 - TDS Sensor (Total Dissolved Solid)
 - pH Sensor 
